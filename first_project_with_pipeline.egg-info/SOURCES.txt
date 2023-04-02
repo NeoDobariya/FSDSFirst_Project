@@ -1,0 +1,7 @@
+README.md
+setup.py
+first_project_with_pipeline.egg-info/PKG-INFO
+first_project_with_pipeline.egg-info/SOURCES.txt
+first_project_with_pipeline.egg-info/dependency_links.txt
+first_project_with_pipeline.egg-info/top_level.txt
+src/__init__.py
